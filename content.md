@@ -30,6 +30,7 @@ description: open my interview questions
 2. 我对面试的理解
 3. 博弈论初级入门
 4. 面试题解析
+5. 答疑
 
 <!-- page -->
 
@@ -41,11 +42,22 @@ description: open my interview questions
 2. 企业对人才有自己的定义
 3. 招聘的成本很高
 
+Note:
+
+月薪 21750 中高级工程师
+日薪 1000块
+时薪 125块
+1000 / 12 + 10 = 12000
+
 <!-- section -->
 
-1. 校招和社招
+1. 很好的简历
 2. 内推
-3. 招聘流程
+
+<!-- page -->
+
+1. 校招和社招
+2. 招聘流程
 
 <!-- page -->
 
@@ -82,6 +94,8 @@ description: open my interview questions
 <!-- section -->
 
 1. 如果对进大厂没有十足的把握，不要轻易投简历和面试
+2. 对于实习生和应届生，大厂更加合适，应该尽量拿大厂的 offer
+3. 人生或者说编程之路很长，尽早走、每天走，将来就会比较轻松
 
 <!-- page -->
 
@@ -91,4 +105,4 @@ Q&A
 
 参考阅读：
 
-*
+* [如何制作简历](https://www.bilibili.com/video/av12891024/?from=search&seid=14906834420145941274)
