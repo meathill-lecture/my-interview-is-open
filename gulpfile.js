@@ -21,7 +21,7 @@ gulp.task('js', () => {
     .pipe(webpackStream(require('./webpack.config.prod'), webpack))
     .pipe(replace(PATH_REG, toCDN))
     .pipe(uglify())
-    .pipe(gulp.dest(`${DOC}js/`))
+    .pipe(gulp.dest(`${DOC}app/`))
 });
 
 gulp.task('stylus', () => {

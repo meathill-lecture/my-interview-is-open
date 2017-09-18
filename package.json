@@ -31,9 +31,9 @@
     "gulp-uglify": "^3.0.0",
     "live-server": "^1.2.0",
     "marked": "^0.3.6",
-    "reveal-markdown-compiler": "^1.2.0",
+    "reveal-markdown-compiler": "^1.2.1",
     "run-sequence": "^1.2.2",
-    "webpack": "^3.5.6",
+    "webpack": "^3.6.0",
     "webpack-stream": "^4.0.0"
   },
   "dependencies": {
